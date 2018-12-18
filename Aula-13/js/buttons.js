@@ -1,3 +1,3 @@
 window.document.querySelector(".-second");
 
-console.log("oi");
+console.log("TESTE DE ESCRITA");
